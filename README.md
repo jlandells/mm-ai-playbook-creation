@@ -41,8 +41,8 @@ The more detail you provide, the better the result. See the [prompting examples]
 Save the LLM's JSON output to a `.json` file, then import it into Mattermost:
 
 1. Navigate to **Playbooks** from the product menu
-2. Click the **⋯** (three-dot) menu
-3. Select **Import**
+2. Click the **+** to the right of the team name
+3. Select **Import Playbook**
 4. Choose your `.json` file and select the target team
 
 ## How to Prompt the LLM
